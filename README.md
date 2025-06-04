@@ -1,2 +1,2 @@
 "# MagPy-LOS" 
-# tilaye-bio
+# Tilaye-Bio
