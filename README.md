@@ -14,7 +14,7 @@ This page includes:
 
 - A short bio
 - My CV download link
-- Highlighted projects (e.g., MagPy-LOS)
+- Highlighted projects (e.g., MagPy and NLFF)
 
 ## 📎 CV
 
@@ -30,7 +30,7 @@ You can download my full academic CV from this repo:
 
 ## 📣 Contact
 
-Email: [tilaye.tadesse@example.com](mailto:tilaye.tadesse@example.com)
+Email: [tilaye.tadesse@gmail.com](mailto:tilaye.tadesse@gmail.com)
 
 ---
 
