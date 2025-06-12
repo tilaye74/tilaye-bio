@@ -1,61 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tilaye Tadesse - Bio</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Tilaye Tadesse</h1>
-      <p class="tagline">Space Physicist | Forecast Modeler | Data Enthusiast</p>
-    </header>
+# Tilaye Tadesse – Personal Bio Page
 
-    <section class="bio">
-      <h2>About Me</h2>
-      <p>
-        I am a passionate space physicist with deep expertise in space weather forecasting,
-        solar magnetic field analysis, and proxy modeling. With several years of experience
-        working on high-impact forecasting models like MagPy, I blend domain knowledge
-        in solar physics with programming, data analytics, and machine learning.
-      </p>
-      <p>
-        My current work focuses on enhancing the accuracy and operational capability of
-        models that predict solar flares, CMEs, and other solar phenomena using real-time
-        SHARP/HMI data from NASA/SDO. I am particularly interested in the intersection of
-        scientific research and practical forecasting tools.
-      </p>
-      <p>
-        I'm also committed to open science and collaboration, and I actively contribute to
-        repositories and development efforts within the space weather community.
-      </p>
-    </section>
+This is my professional bio and portfolio website built with simple HTML and CSS. It highlights my expertise in space physics, forecasting models, and scientific data analytics.
 
-    <section class="cv">
-      <h2>Download My CV</h2>
-      <p>
-        You can download my full academic CV here:
-        <a href="https://github.com/tilaye74/tilaye-bio/blob/main/Tadesse%20Tadesse%20CV.pdf" target="_blank">
-          Download CV (PDF)
-        </a>
-      </p>
-    </section>
+## 🌐 Live Site
 
-    <section class="projects">
-      <h2>Featured Work</h2>
-      <ul>
-        <li><strong>MagPy-LOS:</strong> A robust forecasting tool for line-of-sight magnetic fields and solar activity.</li>
-        <li><strong>Proxy Calculation Scripts:</strong> Developed automated scripts for SRS handling, blob segmentation, and flare forecasting.</li>
-        <li><strong>Data Mining Tools:</strong> Designed utilities to generate and analyze training data from solar observations.</li>
-      </ul>
-    </section>
+Visit my GitHub Pages site here:  
+➡️ [https://tilaye74.github.io/tilaye-bio/](https://tilaye74.github.io/tilaye-bio/)
 
-    <footer>
-      <p>Contact: <a href="mailto:tilaye.tadesse@example.com">tilaye.tadesse@example.com</a></p>
-      <p>&copy; 2025 Tilaye Tadesse</p>
-    </footer>
-  </div>
-</body>
-</html>
+## 📄 About
+
+I am a space physicist and forecast model developer focused on solar magnetic field research and space weather modeling.  
+This page includes:
+
+- A short bio
+- My CV download link
+- Highlighted projects (e.g., MagPy-LOS)
+
+## 📎 CV
+
+You can download my full academic CV from this repo:  
+📄 [Tadesse Tadesse CV (PDF)](https://github.com/tilaye74/tilaye-bio/blob/main/Tadesse%20Tadesse%20CV.pdf)
+
+## 📁 Repo Structure
+
+- `index.html`: The main web page
+- `style.css`: Styling for the web page
+- `README.md`: This file
+- `Tadesse Tadesse CV.pdf`: My resume in PDF format
+
+## 📣 Contact
+
+Email: [tilaye.tadesse@example.com](mailto:tilaye.tadesse@example.com)
+
+---
+
+© 2025 Tilaye Tadesse  
