@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +37,7 @@
       <h2>Download My CV</h2>
       <p>
         You can download my full academic CV here:
-        <a href="https://github.com/tilaye74/tilaye-bio/raw/main/Tilaye_CV.pdf](https://github.com/tilaye74/tilaye-bio/blob/main/Tadesse%20Tadesse%20CV.pdf" target="_blank">
+        <a href="https://github.com/tilaye74/tilaye-bio/blob/main/Tadesse%20Tadesse%20CV.pdf" target="_blank">
           Download CV (PDF)
         </a>
       </p>
